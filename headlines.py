@@ -91,6 +91,5 @@ def deals():
     return render_template("deals.html")
 
 
-
 if __name__ == '__main__':
   app.run()
