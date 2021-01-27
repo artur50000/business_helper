@@ -1,0 +1,1 @@
+web: gunicorn headlines:flask_app
